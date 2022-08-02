@@ -1,0 +1,14 @@
+
+NVM Installation:
+------------------
+
+Link for instructions: https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
+
+Windows
+First, we need to do a little preparation:
+
+1. uninstall any existing versions of Node.js
+2. delete any existing Node.js installation directories (such as C:\Program Files\nodejs)
+3. delete the existing npm install location (such as C:\Users\<user>\AppData\Roaming\npm)
+4. Download and run the latest stable installer. You can download nvm-setup.zip or nvm-setup.exe .
+   Link: https://github.com/coreybutler/nvm-windows/releases
