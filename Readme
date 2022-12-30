@@ -12,3 +12,12 @@ First, we need to do a little preparation:
 3. delete the existing npm install location (such as C:\Users\<user>\AppData\Roaming\npm)
 4. Download and run the latest stable installer. You can download nvm-setup.zip or nvm-setup.exe .
    Link: https://github.com/coreybutler/nvm-windows/releases
+   
+   
+NVM Commands:
+--------------
+1. nvm -v                     ## to check the version of nvm 
+2. nvm list                   ## to see the list of all node versions installed already
+3. nvm install x.x.x          ## to install x.x.x (for example 16.14.0) version of node
+4. nvm use x.x.x              ## to use x.x.x (for example 16.14.0) version of node
+5. nvm uninstall x.x.x        ## to uninstall x.x.x (for example 16.14.0) version of node
